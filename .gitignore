@@ -1,0 +1,9 @@
+### Actionscript template
+bin/
+dev-assets/
+
+.idea/workspace.xml
+.idea/tasks.xml
+
+# Other files and folders
+.settings/
